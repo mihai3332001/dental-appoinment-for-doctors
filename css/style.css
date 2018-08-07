@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat:400,700|Open+Sans|Roboto:300,400,500,700');
+
+header {
+    background: #12c2e9;
+    background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+    background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+	color:#fff;
+	font-family: Caveat, sans-serif;
+	font-weight: 700;
+}
+
+footer {
+	background: #12c2e9;
+    background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+    background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+    color:#fff;
+	font-family: Caveat, sans-serif;
+	font-weight: 700;
+}
+
+.adminLogin {
+	font-family: Roboto-500, sans-serif;
+	text-transform: uppercase;
+}
+
+.adminLogin a {
+	color: #fff;
+    background-color: #df5e9c;
+    border-color: #db62aa;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.viewProg thead tr {
+    background: #dcdcdc;
+    color: #6d6d6d;
+}
+
+#message {
+    display: none;
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+
+#message i{
+    padding-right: 10px;
+}
+
+#messageDoctor {
+    display: none;
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+
+#messageDoctor i{
+    padding-right: 10px;
+}
+
+#updateMessage i{
+    padding-right: 10px;    
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    border-radius: 20px;  
+}
+
+#messageProg i{
+    padding-right: 10px;    
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    border-radius: 20px;  
+}
+
+#messageUser i {
+    padding-right: 10px; 
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    border-radius: 20px;       
+}
+
+#errortelefon {
+    padding-left: 55px;
+}
+
+#errordata {
+    padding-left: 55px;
+}
+
+#errorora {
+    padding-left: 55px;
+}
+
+#errornume {
+    padding-left: 55px;
+}
+
+#errordoctor {
+    padding-left: 55px;
+}
+
+#erroremail {
+    padding-left: 55px;
+}
+
+#erroruser {
+    padding-left: 55px;
+}
